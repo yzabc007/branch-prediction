@@ -1,4 +1,4 @@
-#include "predictor.h"
+/*#include "predictor.h"
 
 
 #define PHT_CTR_MAX  3
@@ -86,7 +86,7 @@ void    PREDICTOR::TrackOtherInst(UINT32 PC, OpType opType, UINT32 branchTarget)
   // We expect most contestants to leave this function untouched.
 
   return;
-}
+}*/
 
 /////////////////////////////////////////////////////////////
 /////////////////////////////////////////////////////////////
